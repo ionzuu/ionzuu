@@ -23,10 +23,10 @@ My name is Jonathan (some know me as John). I'm 23yo and in this moment im just 
   <li>✉️  You can contact me at: 
     <ul>
       <li>
-       [jonathan.costilla@protonmail.com](mailto:jonathan.costilla@protonmail.com)
+        <a href="mailto:jonathan.costilla@protonmail.com" target="_blank">jonathan.costilla@protonmail.com</a>
       </li>
       <li>
-      [lawolfgangl@gmail.com](mailto:lawolfgangl@gmail.com)
+        <a href="mailto:lawolfgangl@gmail.com" target="_blank">lawolfgangl@gmail.com</a>
       </li>
       <li>
       <a aria-label="Chat on WhatsApp" href="https://wa.me/528136421320">Chat on WhatsApp </a>

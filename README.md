@@ -48,7 +48,10 @@ My name is Jonathan (some know me as John). I'm 23yo and in this moment im just 
 <a href="https://docs.unity3d.com/Manual/index.html" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=unity" width="36" height="36" alt="unity" /></a>
 <a href="https://reactjs.org/docs/getting-started.html" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=react" width="36" height="36" alt="react" /></a>
 <a href="https://docs.kernel.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linux" width="36" height="36" alt="Linux" /></a>
-
 </p>
 
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ionzuu&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
+### :fire: My Languages :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ionzuu&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)

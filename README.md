@@ -15,7 +15,6 @@
 </div>
 
 ### Hey 👋
-##other commit
 
 My name is Jonathan (some know me as John). I'm 23yo and in this moment im just finished my engineer career, working full time and studying programming (after work) in between! C and C++ was my first language when i started studying, and I'm currently following a Front-end and game developer roadmap.
 

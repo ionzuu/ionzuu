@@ -29,7 +29,7 @@ My name is Jonathan (some know me as John). I'm 23yo and in this moment im just 
         <a href="mailto:lawolfgangl@gmail.com" target="_blank">lawolfgangl@gmail.com</a>
       </li>
       <li>
-      <a aria-label="Chat on WhatsApp" href="https://wa.me/528136421320">Chat on WhatsApp </a>
+      <a aria-label="Chat on WhatsApp" href="https://wa.me/16823737362">Chat on WhatsApp </a>
       </li>
     </ul>
   </li>

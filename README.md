@@ -16,10 +16,10 @@
 
 ### Hey 👋
 
-My name is Jonathan (some know me as John). I'm 23yo and in this moment im just finished my engineer career, working full time and studying programming (after work) in between! C and C++ was my first language when i started studying, and I'm currently following a Front-end and game developer roadmap.
+My name is Jonathan (some know me as John). I'm 24yo and in this moment im just finished my engineer career, working full time and studying programming (after work) in between! C and C++ was my first language when i started studying, and I'm currently following a Front-end and game developer roadmap.
 
 <ul>
-  <li>🌍  I'm based in Monterrey, Nuevo Leon, Mexico but i'm planning move to Arlington Texas in a few months!</li>
+  <li>🌍  I'm living in Arlington, Tx</li>
   <li>✉️  You can contact me at: 
     <ul>
       <li>

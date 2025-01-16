@@ -16,7 +16,8 @@
 
 ### Hey 👋
 
-My name is Jonathan (some know me as John). I'm 24yo and in this moment im just finished my engineer career, working full time and studying programming (after work) in between! C and C++ was my first language when i started studying, and I'm currently following a Front-end and game developer roadmap.
+My name is Jonathan, I'm 25yo, I’m a Software Engineer with experience in system administration, cloud computing, and frontend development. I earned my Bachelor's degree in Engineering Systems Administration and my GED focused on IT, both in Mexico. Right now, I’m working at Steak 'n Shake, where I started as a Grill Cook. After three months, I was promoted to Shift Manager, and three months later, I became the General Manager.
+I’ve learned a lot about leadership and managing teams, but I’m really passionate about technology and coding. I’m skilled in React.js, JavaScript, HTML, CSS, and C++. I enjoy solving problems and creating solutions, and I’m looking for an opportunity to grow my career as a Software Engineer or in IT or cybersecurity.
 
 <ul>
   <li>🌍  I'm living in Arlington, Tx</li>
